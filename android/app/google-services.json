@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "935559098913",
+    "project_id": "bagwan-30d8b",
+    "storage_bucket": "bagwan-30d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935559098913:android:68c7e01f2d9915a9fa6960",
+        "android_client_info": {
+          "package_name": "com.example.bagwan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935559098913-dpc2u92beibudbpkf1pilh94srq5ptfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFa9s_CBoHsobmplrwoythLO8_fblX5_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935559098913-dpc2u92beibudbpkf1pilh94srq5ptfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935559098913:android:67a5f76de1d18942fa6960",
+        "android_client_info": {
+          "package_name": "com.example.bcladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935559098913-dpc2u92beibudbpkf1pilh94srq5ptfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFa9s_CBoHsobmplrwoythLO8_fblX5_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935559098913-dpc2u92beibudbpkf1pilh94srq5ptfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
